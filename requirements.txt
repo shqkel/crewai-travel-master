@@ -1,0 +1,6 @@
+notebook
+python-dotenv
+crewai[tools]
+langchain_openai
+langchain-community
+streamlit
